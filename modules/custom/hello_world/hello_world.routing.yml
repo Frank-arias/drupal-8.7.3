@@ -1,0 +1,9 @@
+hello_world.content:
+  path: '/hello_world'
+  defaults:
+    _controller: '\Drupal\hello_world\Controller\HelloController::content'
+    _title: 'Tipo de cambio del BCR'
+  requirements:
+    _permission: 'access content'
+
+

@@ -1,0 +1,6 @@
+name: Hello World Module
+description: Creates a page showing "Tipo de cambio del BCR".
+package: Custom
+
+type: module
+core: 8.x
